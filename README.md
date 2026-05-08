@@ -48,4 +48,3 @@ crypto-sentiment-analysis/
 
 ## Final Conclusion
 Sentiment relates to sizing and risk behavior, but the effect is not clean or monotonic. The most consistent signal is how traders react to regimes, not the sentiment score alone.
-# crypto-trader-sentiment-analysis
