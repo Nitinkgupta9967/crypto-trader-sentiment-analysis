@@ -60,4 +60,4 @@ crypto-trader-sentiment-analysis/
 3. Open `notebooks/analysis.ipynb`
 
 ## Final Conclusion
-Sentiment lines up with sizing and risk behavior, but the effect is not clean or monotonic. The most consistent patterns come from how traders react to regimes, not the sentiment score alone.
+Greed regimes show fatter tails in trade sizing and higher PnL dispersion. Sentiment adds regime context but is not the primary driver, with trade size and fee ranking higher in feature importance. Model accuracy improved from 0.58 (baseline) to 0.82 after removing leaky features.
